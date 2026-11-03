@@ -1,0 +1,17 @@
+[app]
+max_depth = 2
+timeout = 10
+user_agent = "PulseModuleExtractor/1.0"
+
+[llm]
+provider = "openai"
+model = "gpt-4o-mini"
+temperature = 0.2
+
+[output]
+format = "json"
+output_dir = "output"
+
+[crawler]
+allowed_domains_only = true
+max_pages = 50
