@@ -291,6 +291,4 @@ For substantial changes, consider opening an issue first to discuss the proposed
 
 This project is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions of the license.
 
-See the [`LICENSE`](LICENSE) file in the root of this repository for the complete license text.
-
-Before publishing, replace `[Your Name]` in the `LICENSE` file with the copyright holder's name.
+See the [LICENSE](LICENSE) file in the root of this repository for the complete license text.
